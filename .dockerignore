@@ -1,0 +1,8 @@
+.git
+.env
+node_modules
+.next
+ml/data
+ml/artifacts
+__pycache__
+.pytest_cache
